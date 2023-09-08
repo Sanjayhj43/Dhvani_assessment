@@ -1,3 +1,7 @@
+# To plot the path of the bee in 3D space based on the given dynamical system equations.
+# We can use Python and the Matplotlib library. 
+# Here's a Python program to do that
+
 import numpy as np
 import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
@@ -45,3 +49,8 @@ ax.set_zlabel('Z')
 # Show the plot
 plt.legend()
 plt.show()
+
+
+
+
+# This program will calculate the positions of the bee over time based on the given dynamical system equations and then plot the path taken by the bee in 3D space using Matplotlib.
