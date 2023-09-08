@@ -1,0 +1,47 @@
+# Textual representaion of Flowchart
+Start
+  |
+  v
+[Define Constants]
+  |
+  v
+[Initialize Variables]
+  |
+  v
+[Define Time Params]
+  |
+  v
+[Create Time Array]
+  |
+  v
+[Initialize Arrays]
+  |
+  v
+[Set Initial Values]
+  |
+  v
+[Create Loop]
+  |
+  v
+[Calculate dot_x, dot_y, dot_z]
+  |
+  v
+[Update x, y, z]
+  |
+  v
+[Store New Values]
+  |
+  v
+[Check for End of Simulation]
+  |
+  v
+[Plot Bee Path]
+  |
+  v
+[Set Labels]
+  |
+  v
+[Show Plot]
+  |
+  v
+End
