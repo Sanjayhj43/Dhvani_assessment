@@ -1,0 +1,21 @@
+# Textual representation of Flowchart for object detection
+
+  Start
+    |
+    V
+   Data Preprocessing (Image resizing, normalization, etc.)
+    |
+    V
+   Data Splitting (Training, Validation, Testing)
+    |
+    V
+   Model Building (Object Detection + Classification)
+    |
+    V
+   Training
+    |
+    V
+   Model Evaluation (Object Detection metrics + Classification accuracy)
+    |
+    V
+   End
